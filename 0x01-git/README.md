@@ -1,1 +1,1 @@
-this is ,y first git directory
+my first radme for this git project
